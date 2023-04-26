@@ -1,3 +1,11 @@
-body{
+body
+{
     background-color: aquamarine;
+}
+
+.card
+{
+    background-color: beige;
+    margin: 10px;
+    border: 2px solid #333;
 }
