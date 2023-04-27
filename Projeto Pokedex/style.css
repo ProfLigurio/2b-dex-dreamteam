@@ -8,4 +8,7 @@ body
     background: beige;
     margin: 10px;
     border: 2px solid #333;
+    width: 150px;
+    padding: 10px;
+
 }
