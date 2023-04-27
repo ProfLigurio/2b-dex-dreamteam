@@ -11,4 +11,19 @@ body
     width: 150px;
     padding: 10px;
     border-radius: 5px 20px;
+    text-align: center;
+    line-height: 1.2;
+}
+
+h1 
+{ 
+    font-family: Tahoma, Verdana, Segoe, sans-serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; 
+} 
+h3 
+{ 
+    font-family: Tahoma, Verdana, Segoe, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; 
+} 
+p 
+{ 
+    font-family: Tahoma, Verdana, Segoe, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; 
 }
